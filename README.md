@@ -438,7 +438,8 @@ Total deals: 331
 | 👥 | [FeedbackPulse](https://feedbackpulse.com?utm_source=tonybf) | Employee feedback tools that take minutes, not months to implement. No consultants needed - just meaningful surveys your team will actually complete. Purpose-built for growing companies with 10-500 employees. | **30% OFF** first year with code **BLACKFRIDAY2025** |
 | 💼 | [Hirevire](https://hirevire.com?ref=tonydinh) | One‑way video interview software that replaces first‑round phone screens. Send a link, candidates record on their time, and you review in minutes—cutting screening time by 50%+ while getting better signal on communication, fit, and motivation. | **20% OFF** for first year  - available on all plans with code **BlackFriday20in25** |
 | 🛠️ | [SharpAPI](https://sharpapi.com/en/pricing?utm_source=bfcm2025) | AI workflow automation API for product descriptions, resume parsing, job match scoring, SEO tags, and more. Built for developers who want fast, reliable AI endpoints without extra complexity. | **50% OFF first year** with code **BF2025** (Nov 24–Dec 3) |
-| 🖼️ [GoStudio.ai](https://gostudio.ai) | Generate crisp, studio-quality headshots and branded visuals instantly. Designed for founders and professionals, GoStudio.ai replaces costly photoshoots with fast, polished AI portraits that elevate credibility and brand presence. | **30% OFF** with code **GS30** |
+| 🖼️ | [GoStudio.ai](https://www.gostudio.ai/) | Generate crisp, studio-quality headshots and branded visuals instantly. Perfect for founders, teams, and professionals. GoStudio.ai replaces expensive photoshoots with fast, polished AI portraits that elevate credibility and brand presence. | **30% OFF** with code **GS30** |
+
 
 
 
